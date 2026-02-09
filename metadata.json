@@ -1,0 +1,8 @@
+{
+  "name": "Roberto Training System",
+  "description": "Sistem premium de antrenament pentru hipertrofie cu autoreglare și tracking avansat al performanței.",
+  "requestFramePermissions": [],
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "standalone"
+}
